@@ -74,4 +74,5 @@ print(fruits.find("banana"))
 print(type(s1))
 
 print("Changes")
+print(s1)
 
