@@ -73,4 +73,5 @@ print(min(jjj))
 print(max(jjj))
 print(len(jjj))
 j= 's', 'w', 'd',
-print(min(j)) 
+print(min(j))
+print(tup2)

@@ -43,4 +43,6 @@ print(m|n)
 o=True
 p=True
 print(o|p)
+print(n)
+
 
