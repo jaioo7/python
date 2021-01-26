@@ -12,7 +12,6 @@ jai
 sankaru
 where'''
 print(str3)
-
 #Extracting Individual Characters
 my_string= "jovy loves pizza"
 print(my_string[0])

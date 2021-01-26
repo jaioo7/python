@@ -26,3 +26,4 @@ print(s3.union(s2))
 s4={1,2,3,4,5,6,7,8,9}
 s5={4,5,6,7,8,9,10,11,12}
 print(s4.intersection(s5))
+print(s4.union(s5))

@@ -1,9 +1,0 @@
-#list
-l1=['a',1,True]
-print(type(l1))
-tup=('a',1,True)
-print(type(tup))
-dis={'a',1,True}
-print(type(dis))
-a='a',1,True
-print(type(a))

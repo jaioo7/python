@@ -13,7 +13,6 @@
 stu='raj'
 Stu="raja"
 print(stu, Stu)
-
 #python literals
 # Literals are constants in python
 # A iam a contant  i didnot change
