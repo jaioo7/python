@@ -24,3 +24,4 @@ print(fruit2)
 fruit2.pop('grapes')
 print(fruit2)
 fruit2['jai']=99
+

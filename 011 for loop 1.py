@@ -10,6 +10,4 @@ for a in f:
 	for b in g:
 		for c in h:
 			print(a,b,c)
-			print(a[0],b[0],c[0])
-		print(c,h)
-	print(c,h)
+			
