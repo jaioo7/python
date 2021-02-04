@@ -34,3 +34,19 @@ fruits="I like apple, mango, banana, apple"
 print(fruits.split(','))
 date='21.12.2004'
 print(date.split('.'))
+
+
+##strings
+# a="Jai, Sankaru, Bandaru, Tirupati"
+# print(len(a))
+# print(min(a))
+# print(max(a))
+# print(a.replace("Jai","Nikki"))
+# print(a.lower())
+# print(a.upper())
+# print(a.split(','))
+# print(a.count("a"))
+# print(a.find('Bandaru'))
+# print(a[0])
+# print(a[-1])
+# print(a[4:12])

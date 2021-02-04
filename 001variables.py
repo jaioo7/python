@@ -6,7 +6,7 @@ print(type(student))
 student="jeff"
 print(student)
 #date types in python
-#evey variable is associated with a data-type- int, flooat, boolean, string.
+#evey variable is associated with a data-type- int, float, boolean, string.
 #int Ex 10, 100, 33, 25
 # float Ex 3.14, 56.25, 15.97
 # Boolean Ex True, False

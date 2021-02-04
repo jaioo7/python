@@ -1,4 +1,4 @@
-#3 operators
+ #3 operators
 #relationall operators, arthmetic operators, logical operators
 #arthmetic operators (+, -, /, *)
 # ex

@@ -65,3 +65,25 @@ print(l5)
 l6=["jai","sankaru","bandaru","cherry","nikki"]
 l6.sort()
 print(l6)
+
+
+
+# a=[2,5,6,8,9,7,5,3,4,6]
+# print(len(a))
+# print(max(a))
+# print(min(a))
+# a.pop()
+# print(a)
+# a.append('jai')
+# print(a)
+# a.pop()
+# print(a)
+# a.reverse()
+# print(a)
+# a.sort()
+# print(a)
+# print(a[2:8])
+# a.insert(2,'sankaru')
+# print(a)
+# a[1]=100
+# print(a)
