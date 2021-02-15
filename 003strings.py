@@ -50,3 +50,31 @@ print(date.split('.'))
 # print(a[0])
 # print(a[-1])
 # print(a[4:12])
+
+# (+)
+a='Jai'
+b='Sankaru '
+c=(a+b)
+print(c)
+# (*)
+print(c*3)
+
+a='jai'
+b=25
+c=7.8
+print("My Name is",a,"My Age is",b,"hight",7.8)
+print("My Name is {} My Age is {} years hight {} feet".format(a,b,c))
+#lstrip {fist gap delet} see the deference below
+a="     jai"
+b="jai       "
+print(a)
+print(a.lstrip())
+print(b)
+print(b.rstrip())
+print('R' in b)
+print('j' in b)
+print(b.replace('jai','sankaru')) #same meaing
+print(b.replace(b,'bandaru')) #same meaing
+#swapcase means (lower letter change upper & upper letter change lower)
+c=("My Name Is Jai Sankaru" )
+print(c.swapcase())

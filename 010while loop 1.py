@@ -18,3 +18,15 @@ s=3
 while j<=20:
 	print(s,'+',j,'=',s+j)
 	j=j+1
+	#j+=1 same above formula
+
+j=1
+s=3
+while j<=20:
+	print(s,'*',j,'=',s*j)
+	if j==8:
+		break
+	j=j+1
+	#j+=1 same above formula
+
+
